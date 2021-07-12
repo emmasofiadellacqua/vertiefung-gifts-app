@@ -1,0 +1,35 @@
+.Intro_page_3 {
+    text-align: center;
+  }
+
+  .container3{
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/giftapp-a129f.appspot.com/o/Backgrounds%2FOnboarding%203.png?alt=media&token=40b9f88e-9a45-4b47-85cd-e0b0295e6edc");
+    height: 812px; 
+    width: 375px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+  }
+  
+  .button_to_registration{
+    height: 43px; 
+    width: 130px;
+    background-color: #000DAE;
+    border: none;
+    color: white;
+    padding: 5px 5px; 
+    text-align: center;
+    text-decoration:none;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: 'Poppins';
+    display: inline-block;
+    position: absolute;
+    border-radius: 10px;
+    top : 640px;
+    left : 123px;
+  }
+
+  
+  

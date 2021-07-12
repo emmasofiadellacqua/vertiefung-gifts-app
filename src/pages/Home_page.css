@@ -1,0 +1,58 @@
+  .container6{
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/giftapp-a129f.appspot.com/o/Backgrounds%2FHome_page_background.png?alt=media&token=faa6ea4e-5685-4489-ac6e-764ce9dff942");
+    /* Full height */
+    height: 812px; 
+    width: 375px;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute
+  }
+  
+
+  .occasions {
+    width: fit-content;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    flex-direction: column; 
+    margin-top: 500px;
+  }
+
+  .profile {
+    width: fit-content;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    flex-direction: column; 
+    margin-top: 5px;
+  }
+
+  .calendar {
+    width: fit-content;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    flex-direction: column; 
+    margin-top: 5px;
+  }
+
+.button_to_occasions{
+  height: 89px; 
+  width: 324px;
+}
+
+.button_to_profile{
+  height: 89px; 
+  width: 324px;
+}
+
+.button_to_calendar{
+  height: 89px; 
+  width: 324px;
+}
+

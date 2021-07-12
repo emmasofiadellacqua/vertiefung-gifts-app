@@ -1,0 +1,120 @@
+  .container7 {
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/giftapp-a129f.appspot.com/o/Backgrounds%2FBasic_background.png?alt=media&token=b74aea4f-1d41-4009-98d7-827d7f5eb2da");
+    height: 812px; 
+    width: 375px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+  }
+
+  .Logo_pic {
+    width: fit-content;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 120px;
+}
+
+.Logo {
+    width:125px; 
+    height:28px;
+}
+
+.Introduction {
+  display: block;
+  justify-content: center;
+  color: black;
+  flex-direction: column;
+  padding: 0px 30px 0px;
+}
+
+h1.Intro {
+  font-family: 'Poppins';
+  text-align: center;
+  margin-top: 80px;
+}
+
+p.Catch_phrase {
+   font-family: 'Poppins';
+   text-align: center;
+}
+
+.Find_p_button {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  padding: 0px 30px 0px;
+}
+  
+  .p_find  {
+    text-align: left;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 30px;
+    margin-top: 120px;
+    
+  }
+
+  .find_out_more {
+    font-family: 'Poppins';
+    font-weight:bold;
+    color: black;
+    font-size: 22px;
+  }
+  
+
+  .button_to_onboarding {
+    width: fit-content;
+    margin-left: auto;
+    margin-right: 30px;
+    margin-top: 108px;
+  }
+  
+  
+  .button_to_intro1 {
+    height: 64px;
+    width: 64px
+  }
+
+  .go_to_login {
+    width: fit-content;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    flex-direction: column; 
+  }
+
+  .LoginI{
+    height: 48px; 
+    width: 310px;
+    border: none;
+    background-color: transparent;
+    color: #666666;
+    text-align: center;
+    text-decoration:none;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'Poppins';
+    margin-top: 100px;
+}
+
+.LoginI a:visited{
+  height: 48px; 
+  width: 310px;
+  border: none;
+  background-color: transparent;
+  color: #666666;
+  text-align: center;
+  text-decoration:none;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: 'Poppins';
+  margin-top: 100px;
+}
+
+
+.Link {
+  text-decoration: none;
+}

@@ -1,0 +1,137 @@
+.container10 {
+background-image: url("https://firebasestorage.googleapis.com/v0/b/giftapp-a129f.appspot.com/o/Backgrounds%2FProfile_background.png?alt=media&token=1a0a7c67-a036-4b21-997f-f657802045c2");
+height: 812px; 
+width: 375px;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+position: absolute;
+}
+
+.Profile_wrapper {
+    width: 100%;
+    display: flex;
+    font-family: 'Poppins';
+    flex-direction: column;
+}
+
+.Welcome_text {
+    height: 45%;
+    display: block;
+    justify-content: center;
+    flex-direction: column;
+    color: #242134;
+    padding: 0px 30px 0px;
+}
+
+.your_profile{
+    text-align: center;
+    margin-top: 220px;
+}
+
+.User_info {
+    display: block;
+    justify-content: left;
+    flex-direction: column;
+    color: #242134;
+    padding: 0px 30px 0px;
+}
+.h4_email {
+    text-align: left;
+    margin-left: 30px;
+    color: #989898;
+    font-size: 12px;
+    font-weight: 300;
+    margin-top: 110px;
+}
+.h4_location {
+    text-align: left;
+    margin-left: 30px;
+    color: #989898;
+    font-size: 12px;
+    font-weight: 300;
+    margin-top: 20px;
+}
+.profile_p {
+    text-align: left;
+    margin-left: 40px;
+    color: #242134;
+    font-size: 18px;
+    font-weight: 350;
+    margin-top: 10px;
+}
+
+.button_to_home_x {
+    width: fit-content;
+    display: block;
+    margin-right: auto;
+    justify-content: left;
+    flex-direction: column; 
+    margin-top: 20px;
+}
+
+.x_button {
+    font-family: 'Poppins';
+    font-size: 25px;
+    font-weight: 450;
+    border: none;
+    color: #171717;
+    background-color: transparent;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+.x_button a:visited{
+    font-family: 'Poppins';
+    font-size: 25px;
+    font-weight: 450;
+    border: none;
+    color: #171717;
+    background-color: transparent;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+.Logout {
+    width: fit-content;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    flex-direction: column; 
+  }
+  
+  .log_out_button {
+    height: 48px; 
+      width: 310px;
+      background-color: #000DAE;
+      border: none;
+      color: white; 
+      text-decoration:none;
+      font-size: 15px;
+      font-family: 'Poppins';
+      font-weight: 600;
+      border-radius: 10px;
+      text-align: center;
+      margin-top: 70px;
+  }
+  
+  .log_out_button a:visited {
+    height: 48px; 
+      width: 310px;
+      background-color: #000DAE;
+      border: none;
+      color: white; 
+      text-decoration:none;
+      font-size: 15px;
+      font-family: 'Poppins';
+      font-weight: 600;
+      border-radius: 10px;
+      text-align: center;
+      margin-top: 70px;
+  }
+  
+
+.Link {
+    text-decoration: none;
+}

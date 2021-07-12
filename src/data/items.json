@@ -1,0 +1,114 @@
+
+[ 
+    {
+        "id": "00",
+        "title": "Pic-nic blanket",
+        "description": "Blanket for camping and pic nics.",
+        "price": "20",
+        "interest1": "Travel",
+        "interest2": "Camping",
+        "occasion": "Birthday",
+        "image":"https://firebasestorage.googleapis.com/v0/b/giftapp-a129f.appspot.com/o/Pic_nic_blanket.png?alt=media&token=1c7cd4a9-afad-4ca9-9dc6-5f90a103e29b",
+        "full_image": "https://firebasestorage.googleapis.com/v0/b/giftapp-a129f.appspot.com/o/Pic_nic_blanket_full.png?alt=media&token=4e147f2c-ef08-4bb3-99a6-3100ff15ebcf"
+    },
+    {
+        "id": "01",
+        "title": "Spikeball game set",
+        "description": "A fun game to play with your friends.",
+        "price": "50",
+        "interest1": "Sports",
+        "interest2": "Camping",
+        "occasion": "Random",
+        "image":"https://firebasestorage.googleapis.com/v0/b/giftapp-a129f.appspot.com/o/Spikeball.png?alt=media&token=e3bbfdfd-825b-4f3f-8df4-6db51e0d2e1a",
+        "full_image": "https://firebasestorage.googleapis.com/v0/b/giftapp-a129f.appspot.com/o/Spikeball_full.png?alt=media&token=a875e3ab-db19-4b82-a68e-62fc6d7449e3" 
+    },
+    {
+        "id": "02",
+        "title": "Flower embroidered backpack",
+        "description": "A cute bag for any occasion, decorated by hand.",
+        "price": "35",
+        "interest1": "Travel",
+        "interest2": "Photography",
+        "occasion": "Birthday",
+        "full_image": "https://firebasestorage.googleapis.com/v0/b/giftapp-a129f.appspot.com/o/Bag_full.png?alt=media&token=8e18f2c6-30c9-4a8d-9e7b-0169f900c2bf",
+        "image": "https://firebasestorage.googleapis.com/v0/b/giftapp-a129f.appspot.com/o/Bag.png?alt=media&token=6f809c1e-c1b4-4492-805e-da4164dc51ca"
+    },
+    {
+        "id": "03",
+        "title": "Camping hammock",
+        "description": "Exceptionally soft, fast-drying, breathable and extremely robust, perfect choice for cost-conscious traveler.",
+        "price": "22",
+        "interest1": "Travel",
+        "interest2": "Camping",
+        "occasion": "Birthday",
+        "image":"https://firebasestorage.googleapis.com/v0/b/giftapp-a129f.appspot.com/o/Hammock.png?alt=media&token=f5c1f7d7-f714-42ba-be76-f62a1c9cad71",
+        "full_image": "https://firebasestorage.googleapis.com/v0/b/giftapp-a129f.appspot.com/o/Hammock_full.png?alt=media&token=9fc6739b-120a-445e-b3b1-354cd7802bdd"
+    },
+
+    {
+        "id": "04",
+        "title": "MOVIE NIGHT Popcorn",
+        "description": "Give this delicious popcorn kernel and seasoning set at your next dinner party or holiday gathering.",
+        "price": "25,5",
+        "interest1": "Cooking",
+        "interest2": "Sports",
+        "occasion": "Anniversary",
+        "full_image": "https://firebasestorage.googleapis.com/v0/b/giftapp-a129f.appspot.com/o/Popcorn_full.png?alt=media&token=4d113c25-2350-496d-ac02-4c0f9a3f9a9d",
+        "image": "https://firebasestorage.googleapis.com/v0/b/giftapp-a129f.appspot.com/o/Popcorn.png?alt=media&token=0bd72556-3676-462a-b637-36df21a2ef36"
+    },
+    {
+        "id": "05",
+        "title": "Camera Lens mug",
+        "description": "A camera lens stainless steel vacuum thermos cup that is the perfect companion for any trip.",
+        "price": "45",
+        "interest1": "Camping",
+        "interest2": "Photography",
+        "occasion": "Birthday",
+        "image": "https://firebasestorage.googleapis.com/v0/b/giftapp-a129f.appspot.com/o/Camera_mug.png?alt=media&token=2e1d8080-b334-42e9-a035-c39b9a440d5d",
+        "full_image": "https://firebasestorage.googleapis.com/v0/b/giftapp-a129f.appspot.com/o/Camera_mug_full.png?alt=media&token=1e26f626-664b-4b3b-8c86-11b4ef3cec6f"
+    },
+    {
+        "id": "06",
+        "title": "Scratch off world map",
+        "description": "This scratchable world is the perfect travel tracker, stylish decoration for home, and detailed guide.",
+        "price": "30",
+        "interest1": "Travel",
+        "interest2": "Photography",
+        "occasion": "Birthday",
+        "image": "https://firebasestorage.googleapis.com/v0/b/giftapp-a129f.appspot.com/o/Scratch_map.png?alt=media&token=e6ac2618-7fd5-485c-8a7c-e42895a0fcb4",
+        "full_image": "https://firebasestorage.googleapis.com/v0/b/giftapp-a129f.appspot.com/o/Scratch_map_full.png?alt=media&token=b45500a6-24df-4049-93db-a4e8fafd5495"
+    },
+    {
+        "id": "07",
+        "title": "Deluxe hot sauce kit",
+        "description": "Everything you need to make gourmet hot sauce in minutes. Makes up to 10 bottles. ",
+        "price": "35",
+        "interest1": "Cooking",
+        "interest2": "Travel",
+        "occasion": "Random",
+        "image":"https://firebasestorage.googleapis.com/v0/b/giftapp-a129f.appspot.com/o/Hotsauce_kit.png?alt=media&token=e0b1291f-dc5f-468c-86b9-25466a49b33a",
+        "full_image": "https://firebasestorage.googleapis.com/v0/b/giftapp-a129f.appspot.com/o/Hotsauce_kit_full.png?alt=media&token=9d9876a0-ee2c-4b6e-bfe7-de3d6bbb6250"
+    },
+    {
+        "id": "08",
+        "title": "Beanie hat wireless headphones",
+        "description": "Style and Tech combine: a beanie that keeps your head warm and allows you to listen to your music.",
+        "price": "20",
+        "interest1": "Sports",
+        "interest2": "Camping",
+        "occasion": "Christmas",
+        "image":"https://firebasestorage.googleapis.com/v0/b/giftapp-a129f.appspot.com/o/Beanie.png?alt=media&token=b26465ad-c9e3-425e-ba55-38247208d536",
+        "full_image": "https://firebasestorage.googleapis.com/v0/b/giftapp-a129f.appspot.com/o/Beanie_full.png?alt=media&token=da964f16-b66e-44a9-b7ca-b196fddaf7ba"
+    },
+    {
+        "id": "09",
+        "title": "Donut Break My Heart",
+        "description": "Ceramic Mug - 6 Inch (H) - 16 oz that includes silicone lid and hand gripper.",
+        "price": "15",
+        "interest1": "Travel",
+        "interest2": "",
+        "occasion": "Valentines",
+        "image":"https://firebasestorage.googleapis.com/v0/b/giftapp-a129f.appspot.com/o/Donut_mug.png?alt=media&token=abab0fe3-a628-4452-84d2-25a18c3fd78a",
+        "full_image": "https://firebasestorage.googleapis.com/v0/b/giftapp-a129f.appspot.com/o/Donut_mug_full.png?alt=media&token=5428d24b-5a86-44ba-a66c-1ccef1165947"
+    }
+    ]

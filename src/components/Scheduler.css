@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Poppins';
+    src: url("https://fonts.googleapis.com/css?family=Poppins");
+  }
+  
+.scheduler-container {
+    height: 812px; 
+    width: 375px;
+}
+
+div {
+    font-family: 'Poppins';
+}
+
+.dhx_cal_date {
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.dhx_cal_today_button {
+    font-family: 'Poppins';
+    font-weight: 450;
+    font-size: 18px;
+}
+
+.dhx_scale_bar {
+  height: fit-content;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 15px;
+}
+
+.dhx_cal_light {
+    width: 95%;
+}

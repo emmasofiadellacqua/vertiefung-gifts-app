@@ -1,0 +1,62 @@
+.container9 {
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/giftapp-a129f.appspot.com/o/Backgrounds%2FInterests.png?alt=media&token=1dd8d635-940b-453a-b26c-b06f54eddad5");
+    height: 812px; 
+    width: 375px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+    
+    .button_to_results{
+        height: 48px; 
+        width: 310px;
+        background-color: #000DAE;
+        border: none;
+        color: white;
+        padding: 5px 5px; 
+        text-align: center;
+        text-decoration:none;
+        font-weight: bold;
+        font-size: 15px;
+        font-family: 'Poppins';
+        display: inline-block;
+        position: absolute;
+        border-radius: 10px;
+        top : 710px;
+        left : 33px;
+    
+      }
+
+    .Travel {
+      size: 40px;
+      top: 240px;
+      left: 309px;
+      }
+    
+    .Sports {
+        size: 40px;
+        top:300px;
+        left: 309px;
+      }
+    
+    .Camping {
+        size: 40px;
+        top:360px;
+        left: 309px;
+      }
+    
+    .Cooking {
+        size: 40px;
+        top:420px;
+        left: 309px;
+      }
+    
+    .Photography {
+        size: 40px;
+        top:480px;
+        left: 309px;
+      }
+    
+    span.MuiSwitch-thumb  {
+      background-color: #000DAE;
+    }

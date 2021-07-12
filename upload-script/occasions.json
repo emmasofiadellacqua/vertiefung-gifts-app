@@ -1,0 +1,39 @@
+
+{
+    "occasions" : [ 
+    {
+    "ID": "00",
+    "StartDate": "25-07-2021T10:30",
+    "EndDate": "25-07-2021T11:30",
+    "Friend": "Sarah",
+    "Location": "Sarah's house",
+    "Type": "Birthday"
+    },
+    {
+    "ID": "01",
+    "StartDate": "29-08-2021T19:30",
+    "EndDate": "29-08-2021T21:30",
+    "Friend": "Micheal",
+    "Location": "Restaurant La Cornacchia",
+    "Type": "Anniversary"
+     },
+    {
+    "ID": "02",
+    "StartDate": "13-07-2021T14:30",
+    "EndDate": "13-07-2021T18:30",
+    "Friend": "Luke",
+    "Location": "Park",
+    "Type": "Birthday"
+    },
+    {
+    "ID": "03",
+    "StartDate": "17-07-2021T21:30",
+    "EndDate": "17-07-2021T23:30",
+    "Friend": "Monica",
+    "Location": "Shed Club",
+    "Type": "Random"
+    }
+
+
+    ]
+}

@@ -1,0 +1,130 @@
+.container4{
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/giftapp-a129f.appspot.com/o/Backgrounds%2FBasic_background.png?alt=media&token=b74aea4f-1d41-4009-98d7-827d7f5eb2da");
+    height: 812px; 
+    width: 375px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+  }
+
+    .Logo_pic_l {
+        width: fit-content;
+        display: block;
+        margin-top: 100px;
+        margin-left:40px;
+    }
+
+    .Logo_l {
+        width:125px; 
+        height:28px;
+    }
+
+    .Introduction_l {
+    display: block;
+    justify-content: center;
+    color: black;
+    flex-direction: column;
+    padding: 0px 40px 0px;
+    }
+
+    .Intro_l {
+    font-family: 'Poppins';
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    }
+
+    .p_l {
+    font-family: 'Poppins';
+    font-size: 12px;
+    text-align: left;
+    }
+
+    .Email{
+        height: 55px; 
+        width: 310px;
+        background-color: #F5F8FA;
+        border: 1px solid #A0ADC7 ;
+        border-radius: 10px;
+        text-align: center;
+        text-decoration:none;
+        font-family: 'Poppins';
+        font-size: 18px;
+        position: absolute;
+        top : 335px;
+        left : 33px;
+    }
+
+    .Password{
+        height: 55px; 
+        width: 310px;
+        background-color: #F5F8FA;
+        border: 1px solid #A0ADC7 ;
+        border-radius: 10px;
+        text-align: center;
+        text-decoration:none;
+        font-family: 'Poppins';
+        position: absolute;
+        top : 408px;
+        left : 33px;
+        font-size: 18px;
+    }
+
+    .Login{
+        height: 48px; 
+        width: 310px;
+        background-color: #000DAE;
+        border: none;
+        color: white;
+        padding: 5px 5px; 
+        text-align: center;
+        text-decoration:none;
+        font-weight: bold;
+        font-size: 18px;
+        font-family: 'Poppins';
+        display: inline-block;
+        position: absolute;
+        border-radius: 10px;
+        top : 486px;
+        left : 33px;
+    }
+
+    .Register{
+        height: 48px; 
+        width: 310px;
+        border: none;
+        background-color: transparent;
+        color: #666666;
+        padding: 5px 5px; 
+        text-align: center;
+        text-decoration:none;
+        font-size: 18px;
+        font-weight: 500;
+        font-family: 'Poppins';
+        position: absolute;
+        top : 690px;
+        left : 33px;
+    }
+
+    .Register a:visited {
+        height: 48px; 
+        width: 310px;
+        border: none;
+        background-color: transparent;
+        color: #666666;
+        padding: 5px 5px; 
+        text-align: center;
+        text-decoration:none;
+        font-size: 18px;
+        font-weight: 500;
+        font-family: 'Poppins';
+        position: absolute;
+        top : 690px;
+        left : 33px;
+    }
+
+
+    .Link {
+        text-decoration: none;
+    }

@@ -1,0 +1,42 @@
+.button_to_home_calendar {
+    width: fit-content;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    flex-direction: column; 
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.calendar_home_button {
+    height: 48px; 
+    width: 310px;
+    background-color: #000DAE;
+    text-decoration: none;
+    border: none;
+    color: white; 
+    font-size: 15px;
+    font-family: 'Poppins';
+    font-weight: 600;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.calendar_home_button a:visited{
+    height: 48px; 
+    width: 310px;
+    background-color: #000DAE;
+    text-decoration: none;
+    border: none;
+    color: white; 
+    font-size: 15px;
+    font-family: 'Poppins';
+    font-weight: 600;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.Link {
+    text-decoration: none;
+}

@@ -1,0 +1,23 @@
+.Wrapper_results {
+  background-color: white;
+}
+
+.Results {
+    text-align: center;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0px;
+  }
+
+
+.Item_button {
+  background-color: white;
+  border: none;
+}
+
+.Item {
+  color: black;
+  text-align: center;
+}
+
+

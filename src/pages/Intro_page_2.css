@@ -1,0 +1,40 @@
+.Intro_page_2 {
+    text-align: center;
+  }
+
+  div{
+    position: relative;
+    text-decoration: none;
+    color:white;
+  }
+
+  .button_to_3{
+    height: 43px; 
+    width: 130px;
+    background-color: #000DAE;
+    border: none;
+    color: white;
+    padding: 5px 5px; 
+    text-align: center;
+    text-decoration:none;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: 'Poppins';
+    display: inline-block;
+    position: absolute;
+    border-radius: 10px;
+    top : 640px;
+    left : 123px;
+  }
+
+  .container2{
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/giftapp-a129f.appspot.com/o/Backgrounds%2FOnboarding%202.png?alt=media&token=f22b3069-105e-4d07-bec7-26fe76d026cf");
+    height: 812px; 
+    width: 375px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+  }
+
+  
